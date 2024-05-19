@@ -53,7 +53,7 @@ Y_pred=m*X+c
 plt.scatter(X,Y) 
 plt.plot([min(X),max(X)],[min(Y_pred),max(Y_pred)],color="red") 
 plt.show()
-
+```
 
 ## Output:
 ![image](https://github.com/Ayvak16122005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147690197/6c785bde-7195-40d9-9c46-1cd134920ad5)
