@@ -20,7 +20,7 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: KAVYA T
 RegisterNumber:2305003004 
 ```
-'''Python
+```Python
 # Making the imports 
 import numpy as np 
 import pandas as pd 
@@ -56,7 +56,8 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/Ayvak16122005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147690197/6c785bde-7195-40d9-9c46-1cd134920ad5)
+![Screenshot 2024-05-19 192805](https://github.com/Ayvak16122005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147690197/94971945-2a8d-440f-9618-8e6bb89c126b)
+
 ![Screenshot 2024-05-19 192834](https://github.com/Ayvak16122005/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/147690197/5f0b0c97-ab33-43e4-9f1d-b900b48667f3)
 
 ## Result:
